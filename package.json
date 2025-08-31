@@ -17,5 +17,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/yourusername/microservices-cho-ung-dung-tai-chinh.git"
+  },
+  "fields": {
+    "keywords": ["microservices", "financial", "application"],
+    "homepage": "https://github.com/yourusername/microservices-cho-ung-dung-tai-chinh#readme"
   }
 }
